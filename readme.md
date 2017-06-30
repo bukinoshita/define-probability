@@ -35,7 +35,7 @@ Type: `array`<br/>
 Required
 
 `Array` must have at least 2 entries and must have `value` and `prob` keys.<br/>
-Where `value` is the value returned and prob the probabilities of getting this result. (0-1)
+Where `value` is the value returned and prob the probabilities of getting this result. `value` is a number between 0 and 1.
 
 
 ## License
