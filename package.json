@@ -1,12 +1,16 @@
 {
   "name": "define-probability",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Define probability of getting results",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/define-probability.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": ["probability", "probabilities", "math"],
+  "keywords": [
+    "probability",
+    "probabilities",
+    "math"
+  ],
   "scripts": {
     "test": "xo && ava"
   },
